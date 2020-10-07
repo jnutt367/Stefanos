@@ -1,0 +1,10 @@
+@media (max-width: 769px) {
+	body {
+		box-sizing: border-box;
+		
+		display: flex;
+		flex-direction: rows;
+		justify-content: center;
+		align-items: center;
+	}
+}

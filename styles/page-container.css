@@ -18,4 +18,15 @@
 .page-container > .content-wrapper p { 
     letter-spacing: 1px; 
     line-height: 30px;
+	margin-left: 1.5em;
 } 
+/*-----------------------------figure out how to make mobile friendly----
+@media (min-width: 769px) {
+	.squares-wrapper {
+		display: flex;
+		grid-template-columns: 1fr;
+		justify-content: center;
+		align-items: center;
+}
+-------------------------------Work it through in reverse ----------------
+-------------------------------Rebuild if necessary----------------*/

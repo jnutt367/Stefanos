@@ -1,4 +1,11 @@
 /* Square grid styles */ 
+* {
+	border: 1px solid red;
+	
+}
+
+
+
 .square-wrapper { 
     display: flex; 
     justify-content: center; 
