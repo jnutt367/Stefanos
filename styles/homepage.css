@@ -11,14 +11,14 @@
 
 .hero-section > .top-heading { 
     padding: 1px 20px;
-    background-color: #11122b; 
+    background-color: green; 
     color: #cbcbcb; 
     width: 290px; 
     border-radius: 2px;
 } 
 
 .hero-section > .bottom-heading { 
-    background-color: #cea135; 
+    background-color: white; 
     color: #11122b; 
     padding: 1px 20px; 
     margin-top: 15px; 
