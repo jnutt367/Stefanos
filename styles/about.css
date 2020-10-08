@@ -1,10 +1,29 @@
-@media (max-width: 769px) {
-	body {
-		box-sizing: border-box;
-		
-		display: flex;
-		flex-direction: rows;
-		justify-content: center;
-		align-items: center;
-	}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+img {
+	margin-left: 2em;
+	max-width: 400px;
+}
+
+.footer {
+	margin-top: 100px;
+	padding-top: 50px;
+}
+h1 {
+	text-align: center;
+}
+p {
+	padding: 2em;
+}
+.phone a {
+	text-decoration: none;
+	color: white;
+}
+.phone a:hover {
+	color: green;
 }
