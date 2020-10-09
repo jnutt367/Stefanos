@@ -21,6 +21,6 @@ img {
 }
 @media (max-width: 400px) {
 	img{
-		margin-left: -.5em ;
+		margin-left: -.2em ;
 		}
 }
