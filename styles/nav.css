@@ -79,6 +79,7 @@
  .links-wrapper > .nav-link a:hover {
    color: #cea135;
    letter-spacing: 4px;
+   border: 1px solid orange;
  }
 
  /* Right column styles */
